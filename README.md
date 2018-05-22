@@ -1,0 +1,2 @@
+# bill-minimizer
+A project for my Intro. to Computer Science course that asked for students to "Write a program to read test scores, process scores, and display a final report or save the report into a text file. A report is generated for a class of 4 students. ".Write an application that reads a monetary amount, and then determines the fewest number of each bill and coin needed to represent that amount, starting with the highest (assuming $10 bill is the maximum size needed)."
